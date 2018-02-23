@@ -5,26 +5,26 @@ using namespace std;
 
 int main() {
 	PSTurtle t(500, 500);
-	Color lime(0.5, 1.0, 0.5);
+	Color lime(0.5, 0.5, 0.5);
 	t.setup();
 	t.set_pendown(true);
 	t.forward(100)
-	.left(90)
+	.left(45)
 	.forward(100)
-	.left(90)
+	.left(45)
 	.forward(100)
-	.left(90)
+	.left(45)
 	.forward(100)
-	.pensize(10)
+	.pensize(5)
 	.pencolor(lime)
-	.right(90)
-	.backward(200)
-	.right(90)
-	.backward(200)
-	.right(90)
-	.backward(200)
-	.right(90)
-	.backward(200);
+	.right(45)
+	.backward(100)
+	.right(45)
+	.backward(100)
+	.right(45)
+	.backward(100)
+	.right(45)
+	.backward(100);
 
 	return 0;
 }

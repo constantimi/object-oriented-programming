@@ -139,6 +139,6 @@ int main() {
 	t.setup();
 
 	Hilbert h(t, 1024, Point(1500, 1500));
-	h.draw(7);
+	h.draw(1);
 
 }
