@@ -1,0 +1,15 @@
+Synchronized(lock){
+	while(!condition)
+		lock.wait();
+		...
+}
+
+synchronized(lock){
+		lock.notify();
+}
+
+//they are important!
+//random of wait();
+
+What is anonimed class?
+
