@@ -4,31 +4,34 @@ import java.util.function.Predicate;
 
 import org.elsys.todo.Criteria;
 import org.elsys.todo.Task;
+import org.elsys.todo.impl.andCriteria;
 
-public class AbstractCriteria implements Criteria {
-	
-	protected Predicate<Task> criteriaType;
-	
+public class abstractCriteria implements Criteria {
+
+	protected Predicate<Task> predicate;
+	public Predicate<Task> getPredicate() {
+		return predicate;
+	}
+
+	public void setPredicate(Predicate<Task> predicate) {
+		this.predicate = predicate;
+	}
+
 	@Override
 	public Criteria and(Criteria other) {
-		return new AndCriteria(this, other);
+	return new andCriteria(this, other);
 	}
 
 	@Override
 	public Criteria or(Criteria other) {
-		return new OrCriteria(this, other);
+		
+		return new orCriteria(this, other);
 	}
 
 	@Override
 	public Criteria not() {
-		return new NegationCriteria(this);
-	}
-	
-	public Predicate<Task> getCriteriaType() {
-		return criteriaType;
+		// TODO Auto-generated method stub
+		return null;
 	}
 
-	public void setCriteriaType(Predicate<Task> criteriaType) {
-		this.criteriaType = criteriaType;
-	}
 }
