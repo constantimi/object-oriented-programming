@@ -1,0 +1,44 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Animal
+{
+    class Cat : Animal
+    {
+        // Default constructor
+        public Cat() {
+           
+        }
+
+        //Constructor
+
+        public Cat(string name) : base(name)
+        {
+            this.name = name;
+        }
+        public Cat(string name, int age) : base(name, age)
+        {
+            this.name = name;
+            this.age = age;
+
+        }
+
+        // Methods
+        public override void CelebrateBirthday()
+        {
+            if (this.age <= 25)
+            {
+                this.age += 1;
+            }
+        }
+
+        public override string ToString()
+        {
+            return $"Cat: {this.name}({this.age})";
+        }
+
+    }
+}
