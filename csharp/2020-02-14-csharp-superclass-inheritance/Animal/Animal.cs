@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Animal
+namespace Program
 {
     class Animal
     {
@@ -19,9 +17,11 @@ namespace Animal
         }
 
         // Constructor
-        public Animal(string name){
+        public Animal(string name)
+        {
             this.name = name;
             this.age = 1;
+            Console.WriteLine($"Animal: {this.name} {this.age}");
         }
 
         // Constructor
@@ -29,16 +29,17 @@ namespace Animal
         {
             this.name = name;
             this.age = age;
+            Console.WriteLine($"Animal: {this.name} {this.age}");
         }
 
         // Methods
         public virtual void CelebrateBirthday()
         {
-            if(this.age <= 100)
+            if (this.age <= 100)
                 this.age += 1;
         }
 
-        
+
         public virtual string ToString()
         {
             return $"{this.name}({this.age})";

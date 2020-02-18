@@ -1,0 +1,9 @@
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Surprise\bin\Debug\Surprise.exe.config
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Surprise\bin\Debug\Surprise.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Surprise\bin\Debug\Surprise.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Surprise\obj\Debug\Surprise.csprojAssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Surprise\obj\Debug\Surprise.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Surprise\obj\Debug\Surprise.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Surprise\obj\Debug\Surprise.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Surprise\obj\Debug\Surprise.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Surprise\obj\Debug\Surprise.FormAdministration.resources
