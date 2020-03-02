@@ -1,0 +1,9 @@
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week2\StudentSystem\bin\Debug\StudentSystem.exe.config
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week2\StudentSystem\bin\Debug\StudentSystem.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week2\StudentSystem\bin\Debug\StudentSystem.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week2\StudentSystem\obj\Debug\StudentSystem.csprojAssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week2\StudentSystem\obj\Debug\StudentSystem.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week2\StudentSystem\obj\Debug\StudentSystem.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week2\StudentSystem\obj\Debug\StudentSystem.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week2\StudentSystem\obj\Debug\StudentSystem.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week2\StudentSystem\obj\Debug\StudentSystem.FormAdministration.resources

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\Week2\\Animal\\Program.csproj": {}
+    "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Object-Oriented-Programming\\csharp\\2020-02-18-polymorphism-abstract\\Animal\\Program.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\Week2\\Animal\\Program.csproj": {
+    "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Object-Oriented-Programming\\csharp\\2020-02-18-polymorphism-abstract\\Animal\\Program.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\Week2\\Animal\\Program.csproj",
+        "projectUniqueName": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Object-Oriented-Programming\\csharp\\2020-02-18-polymorphism-abstract\\Animal\\Program.csproj",
         "projectName": "Program",
-        "projectPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\Week2\\Animal\\Program.csproj",
+        "projectPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Object-Oriented-Programming\\csharp\\2020-02-18-polymorphism-abstract\\Animal\\Program.csproj",
         "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\Week2\\Animal\\obj\\",
+        "outputPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Object-Oriented-Programming\\csharp\\2020-02-18-polymorphism-abstract\\Animal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

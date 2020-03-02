@@ -17,6 +17,11 @@ namespace Program
         }
 
         // Constructor
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="name"></param>
         public Animal(string name)
         {
             this.name = name;

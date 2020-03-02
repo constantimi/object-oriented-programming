@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\Animal\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Object-Oriented-Programming\\csharp\\2020-02-14-csharp-superclass-inheritance\\Animal\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\Animal\\Program.csproj",
+      "projectPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Object-Oriented-Programming\\csharp\\2020-02-14-csharp-superclass-inheritance\\Animal\\Program.csproj",
       "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\Animal\\obj\\",
+      "outputPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Object-Oriented-Programming\\csharp\\2020-02-14-csharp-superclass-inheritance\\Animal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
