@@ -1,0 +1,9 @@
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week3\Sorting Candy\bin\Debug\Sorting Candy.exe.config
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week3\Sorting Candy\bin\Debug\Sorting Candy.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week3\Sorting Candy\bin\Debug\Sorting Candy.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week3\Sorting Candy\obj\Debug\Sorting Candy.csprojAssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week3\Sorting Candy\obj\Debug\Sorting_Candy.CandyShop.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week3\Sorting Candy\obj\Debug\Sorting_Candy.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week3\Sorting Candy\obj\Debug\Sorting Candy.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week3\Sorting Candy\obj\Debug\Sorting Candy.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week3\Sorting Candy\obj\Debug\Sorting Candy.pdb
