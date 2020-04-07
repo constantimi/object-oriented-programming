@@ -1,16 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Animal
+namespace Program
 {
     class Cat : Animal
     {
         // Default constructor
-        public Cat() {
-           
+        public Cat()
+        {
+
         }
 
         //Constructor
@@ -18,11 +17,13 @@ namespace Animal
         public Cat(string name) : base(name)
         {
             this.name = name;
+            base.ToString();
         }
         public Cat(string name, int age) : base(name, age)
         {
             this.name = name;
             this.age = age;
+            base.ToString();
 
         }
 
@@ -39,6 +40,5 @@ namespace Animal
         {
             return $"Cat: {this.name}({this.age})";
         }
-
     }
 }

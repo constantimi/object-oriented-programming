@@ -1,22 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿using Program;
+using System;
 
 namespace Animal
 {
-    static class Program
+    class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
+        static void Main(string[] args)
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form());
+            Dog dog = new Dog("Bao");
+            Console.WriteLine(dog.ToString());
+            dog.CelebrateBirthday();
+            Console.WriteLine(dog.ToString());
+
+            Cat cat = new Cat("Miao", 23);
+            Console.WriteLine(cat.ToString());
+            cat.CelebrateBirthday();
+            Console.WriteLine(cat.ToString());
+
+            Turtle turtle = new Turtle("Turlo", 2);
+            Console.WriteLine(turtle.ToString());
+            turtle.CelebrateBirthday();
+            Console.WriteLine(turtle.ToString());
         }
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week5-Regular expressions\Search\bin\Debug\Search.exe.config
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week5-Regular expressions\Search\bin\Debug\Search.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week5-Regular expressions\Search\bin\Debug\Search.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week5-Regular expressions\Search\obj\Debug\Search.csprojAssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week5-Regular expressions\Search\obj\Debug\Search.Search.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week5-Regular expressions\Search\obj\Debug\Search.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week5-Regular expressions\Search\obj\Debug\Search.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week5-Regular expressions\Search\obj\Debug\Search.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week5-Regular expressions\Search\obj\Debug\Search.pdb

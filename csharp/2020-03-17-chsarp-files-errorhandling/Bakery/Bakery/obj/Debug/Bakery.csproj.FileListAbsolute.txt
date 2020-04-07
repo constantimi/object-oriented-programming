@@ -1,0 +1,29 @@
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery\Bakery\Bakery\obj\Debug\Bakery.csprojAssemblyReference.cache
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery\Bakery\Bakery\obj\Debug\Bakery.Properties.Resources.resources
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery\Bakery\Bakery\obj\Debug\Bakery.csproj.GenerateResource.cache
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery\Bakery\Bakery\obj\Debug\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery\Bakery\Bakery\obj\Debug\Bakery.BakeryForm.resources
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery\Bakery\Bakery\bin\Debug\Bakery.exe.config
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery\Bakery\Bakery\bin\Debug\Bakery.exe
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery\Bakery\Bakery\bin\Debug\Bakery.pdb
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery\Bakery\Bakery\obj\Debug\Bakery.exe
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery\Bakery\Bakery\obj\Debug\Bakery.pdb
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery_StartProject\Bakery\Bakery\obj\Debug\Bakery.csprojAssemblyReference.cache
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery_StartProject\Bakery\Bakery\obj\Debug\Bakery.BakeryForm.resources
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery_StartProject\Bakery\Bakery\obj\Debug\Bakery.Properties.Resources.resources
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery_StartProject\Bakery\Bakery\obj\Debug\Bakery.csproj.GenerateResource.cache
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery_StartProject\Bakery\Bakery\obj\Debug\Bakery.csproj.CoreCompileInputs.cache
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery_StartProject\Bakery\Bakery\obj\Debug\Bakery.exe
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery_StartProject\Bakery\Bakery\obj\Debug\Bakery.pdb
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery_StartProject\Bakery\Bakery\bin\Debug\Bakery.exe.config
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery_StartProject\Bakery\Bakery\bin\Debug\Bakery.exe
+C:\Users\885876\OneDrive - Office 365 Fontys\Vakken\Ontwikkeling S2 CB\Week 4 - files, db\Bakery_StartProject\Bakery\Bakery\bin\Debug\Bakery.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week4-Files,Database connection and Errors\Bakery\Bakery\bin\Debug\Bakery.exe.config
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week4-Files,Database connection and Errors\Bakery\Bakery\bin\Debug\Bakery.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week4-Files,Database connection and Errors\Bakery\Bakery\bin\Debug\Bakery.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week4-Files,Database connection and Errors\Bakery\Bakery\obj\Debug\Bakery.csprojAssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week4-Files,Database connection and Errors\Bakery\Bakery\obj\Debug\Bakery.BakeryForm.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week4-Files,Database connection and Errors\Bakery\Bakery\obj\Debug\Bakery.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week4-Files,Database connection and Errors\Bakery\Bakery\obj\Debug\Bakery.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week4-Files,Database connection and Errors\Bakery\Bakery\obj\Debug\Bakery.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Week4-Files,Database connection and Errors\Bakery\Bakery\obj\Debug\Bakery.pdb

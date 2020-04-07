@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Animal
+namespace Program
 {
     class Dog : Animal
     {
@@ -19,11 +17,13 @@ namespace Animal
         public Dog(string name) : base(name)
         {
             this.name = name;
+            base.ToString();
         }
         public Dog(string name, int age) : base(name, age)
         {
             this.name = name;
             this.age = age;
+            base.ToString();
 
         }
 
