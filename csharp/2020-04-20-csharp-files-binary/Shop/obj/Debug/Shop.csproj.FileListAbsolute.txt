@@ -1,0 +1,22 @@
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Shop\obj\Debug\Shop.CustomersForm.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Shop\obj\Debug\Shop.ShopForm.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Shop\bin\Debug\Shop.exe.config
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Shop\bin\Debug\Shop.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Shop\bin\Debug\Shop.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Shop\obj\Debug\Shop.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\Shop\obj\Debug\Shop.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\_Week6-Individual assignment\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\_Week6-Individual assignment\Shop\obj\Debug\Shop.CustomersForm.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\_Week6-Individual assignment\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\_Week6-Individual assignment\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\_Week6-Individual assignment\Shop\obj\Debug\Shop.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\_Week6-Individual assignment\Shop\obj\Debug\Shop.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\_Week6-Individual assignment\Shop\bin\Debug\Shop.exe.config
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\_Week6-Individual assignment\Shop\bin\Debug\Shop.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\_Week6-Individual assignment\Shop\bin\Debug\Shop.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\_Week6-Individual assignment\Shop\obj\Debug\Shop.ReceiptForm.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\_Week6-Individual assignment\Shop\obj\Debug\Shop.LoadFilesForm.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\_Week6-Individual assignment\Shop\obj\Debug\Shop.RevenueForm.resources

@@ -1,0 +1,15 @@
+Coffee & Pizza Roasters
+Item Name                     Price
+----------------------------------------
+Pizza margherita              € 5,99
+Pizza margherita              € 5,99
+Pizza margherita              € 5,99
+Pizza margherita              € 5,99
+Flat water                    € 2,50
+Flat water                    € 2,50
+----------------------------------------
+Total to pay                  € 28,96
+----------------------------------------
+ORDER BY John 2020-04-21 18:52:23
+     Thank-you for your custom
+       please come back soon!

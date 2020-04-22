@@ -1,0 +1,12 @@
+Coffee & Pizza Roasters
+Item Name                     Price
+----------------------------------------
+Pizza margherita - thick      € 6,50
+Pizza margherita - thick      € 6,50
+Pizza margherita - thick      € 6,50
+----------------------------------------
+Total to pay                  € 19,50
+----------------------------------------
+ORDER BY John 2020-04-21 19:59:43
+     Thank-you for your custom
+       please come back soon!

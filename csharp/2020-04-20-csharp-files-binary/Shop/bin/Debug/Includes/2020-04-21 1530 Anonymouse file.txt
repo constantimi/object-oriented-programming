@@ -1,0 +1,13 @@
+Coffee & Pizza Roasters
+Item Name                     Price
+----------------------------------------
+Pizza margherita              € 5,99
+Pizza margherita              € 5,99
+Pizza margherita              € 5,99
+Sparkling water               € 2,50
+----------------------------------------
+Total to pay                  € 20,47
+----------------------------------------
+ORDER BY John 2020-04-21 15:30:05
+     Thank-you for your custom
+       please come back soon!
