@@ -1,0 +1,8 @@
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp\bin\Debug\DeliverablesApp.exe.config
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp\bin\Debug\DeliverablesApp.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp\bin\Debug\DeliverablesApp.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp\obj\Debug\DeliverablesApp.csprojAssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp\obj\Debug\DeliverablesApp.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp\obj\Debug\DeliverablesApp.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp\obj\Debug\DeliverablesApp.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp\obj\Debug\DeliverablesApp.pdb

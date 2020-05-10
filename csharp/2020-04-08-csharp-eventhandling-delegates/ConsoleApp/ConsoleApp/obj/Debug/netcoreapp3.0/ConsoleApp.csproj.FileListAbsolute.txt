@@ -1,0 +1,11 @@
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week8-Events and Detegait\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week8-Events and Detegait\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.deps.json
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week8-Events and Detegait\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.json
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week8-Events and Detegait\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week8-Events and Detegait\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week8-Events and Detegait\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.0\ConsoleApp.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week8-Events and Detegait\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week8-Events and Detegait\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week8-Events and Detegait\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week8-Events and Detegait\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.dll
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week8-Events and Detegait\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.0\ConsoleApp.pdb

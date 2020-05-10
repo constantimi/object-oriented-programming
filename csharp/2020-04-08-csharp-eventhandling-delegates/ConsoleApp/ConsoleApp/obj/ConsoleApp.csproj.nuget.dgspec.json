@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\_Week8-Events and Detegait\\EventsDelegates\\EventsDelegates.csproj": {}
+    "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\ood\\_Week8-Events and Detegait\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\_Week8-Events and Detegait\\EventsDelegates\\EventsDelegates.csproj": {
+    "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\ood\\_Week8-Events and Detegait\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\_Week8-Events and Detegait\\EventsDelegates\\EventsDelegates.csproj",
-        "projectName": "EventsDelegates",
-        "projectPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\_Week8-Events and Detegait\\EventsDelegates\\EventsDelegates.csproj",
+        "projectUniqueName": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\ood\\_Week8-Events and Detegait\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\ood\\_Week8-Events and Detegait\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\mihai\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\_Week8-Events and Detegait\\EventsDelegates\\obj\\",
+        "outputPath": "C:\\Users\\mihai\\OneDrive\\Documents\\GitHub\\Projects\\ood\\_Week8-Events and Detegait\\ConsoleApp\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

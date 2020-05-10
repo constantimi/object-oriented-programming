@@ -1,0 +1,16 @@
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\bin\Debug\DeliverablesApp.UnitTests.dll
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\bin\Debug\DeliverablesApp.UnitTests.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\bin\Debug\DeliverablesApp.exe
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\bin\Debug\DeliverablesApp.pdb
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\bin\Debug\DeliverablesApp.exe.config
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\obj\Debug\DeliverablesApp.UnitTests.csprojAssemblyReference.cache
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\obj\Debug\DeliverablesApp.UnitTests.csproj.CopyComplete
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\obj\Debug\DeliverablesApp.UnitTests.dll
+C:\Users\mihai\OneDrive\Documents\GitHub\Projects\ood\_Week9-Unit Testing\Assignment1_DeliveringPackages\DeliverablesApp\DeliverablesApp.UnitTests\obj\Debug\DeliverablesApp.UnitTests.pdb
