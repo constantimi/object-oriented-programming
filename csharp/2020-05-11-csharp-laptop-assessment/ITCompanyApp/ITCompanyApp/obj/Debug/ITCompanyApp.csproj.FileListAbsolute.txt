@@ -1,0 +1,8 @@
+C:\Users\mihai\Desktop\LaptopAssessment_May2020\ITCompanyApp\ITCompanyApp\bin\Debug\ITCompanyApp.exe.config
+C:\Users\mihai\Desktop\LaptopAssessment_May2020\ITCompanyApp\ITCompanyApp\bin\Debug\ITCompanyApp.exe
+C:\Users\mihai\Desktop\LaptopAssessment_May2020\ITCompanyApp\ITCompanyApp\bin\Debug\ITCompanyApp.pdb
+C:\Users\mihai\Desktop\LaptopAssessment_May2020\ITCompanyApp\ITCompanyApp\obj\Debug\ITCompanyApp.csprojAssemblyReference.cache
+C:\Users\mihai\Desktop\LaptopAssessment_May2020\ITCompanyApp\ITCompanyApp\obj\Debug\ITCompanyApp.Properties.Resources.resources
+C:\Users\mihai\Desktop\LaptopAssessment_May2020\ITCompanyApp\ITCompanyApp\obj\Debug\ITCompanyApp.csproj.GenerateResource.cache
+C:\Users\mihai\Desktop\LaptopAssessment_May2020\ITCompanyApp\ITCompanyApp\obj\Debug\ITCompanyApp.exe
+C:\Users\mihai\Desktop\LaptopAssessment_May2020\ITCompanyApp\ITCompanyApp\obj\Debug\ITCompanyApp.pdb
