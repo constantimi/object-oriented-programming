@@ -8,10 +8,12 @@ int main() {
 	
 	while(true) {
 		cin.get(ch);
+
 		if(!cin.good()) {
 			break;
 		}
-		cout << ch;
+
+		cout << ch << endl;
 	}
 
 	return 0;

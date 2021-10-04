@@ -6,7 +6,7 @@ using namespace std;
 
 enum Direction {
 	NONE = 0,
-	UP = 1, 			 // 0001
+	UP = 1, 		// 0001
 	RIGHT = 1 << 1,// 0010 
 	DOWN = 1 << 2, // 0100
 	LEFT = 1 << 3, // 1000
